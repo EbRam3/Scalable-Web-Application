@@ -32,7 +32,7 @@ This architecture follows AWS best practices in terms of scalability, security, 
 
 ##  Solution Architecture Diagram
 
-The visual representation of the architecture is included in the `solution-architecture.png` file in the root of this repository.
+![Solution Architecture](solution-architecture.png)
 
 ---
 
@@ -62,6 +62,9 @@ The full deployment steps, network setup, EC2/AMI preparation, Auto Scaling conf
 6. Monitor using CloudWatch and receive alerts via SNS.
 
 ---
+
+##  Live Demo (Optional)
+[Visit Live Website](http://your-domain.com)
 
 ##  Contact
 
