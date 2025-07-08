@@ -42,7 +42,7 @@ This architecture follows AWS best practices in terms of scalability, security, 
 2. **Documentation** – Complete documentation in the file `Doc Scalable Web Application with ALB and Auto Scaling`.
 3. **Static Website Folder** – Contains static site files in the `resume-website/` directory.
 4. **README** – This README file includes an overview and deployment process.
-5. **Optional** – [Recorded Demo Video](#) *(https://youtu.be/lGM-9IeOVa8?si=WbpjxPRtq6hG11Vl).*
+5. **Recorded Demo Video** – *(https://youtu.be/lGM-9IeOVa8?si=WbpjxPRtq6hG11Vl).*
 
 ---
 
