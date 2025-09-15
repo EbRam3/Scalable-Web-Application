@@ -32,7 +32,7 @@ This architecture follows AWS best practices in terms of scalability, security, 
 
 ##  Solution Architecture Diagram
 
-![Solution Architecture](solution-architecture edited.png)
+![Solution Architecture](solution-architecture-edited.png)
 
 ---
 
